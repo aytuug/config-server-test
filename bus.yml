@@ -1,0 +1,5 @@
+build:
+  version: "3.0"
+
+bus:
+  message: "Welcome to Bus related local APIs"

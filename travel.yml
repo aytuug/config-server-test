@@ -1,0 +1,5 @@
+build:
+  version: "3.0"
+
+travel:
+  message: "Welcome to travel related local APIs"
